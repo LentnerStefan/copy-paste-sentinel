@@ -1,0 +1,18 @@
+{
+    "name": "copy-paste-sentinel",
+    "version": "1.0.0",
+    "description":
+        "A clipboard sentinel to switch between the last 4 copied text",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": "https://github.com/LentnerStefan/copy-paste-sentinel",
+    "keywords": ["Electron", "copy-paste"],
+    "author": "Stefan Lentner",
+    "license": "MIT",
+    "devDependencies": {
+        "electron": "~1.6.2",
+        "lodash": "^4.17.4"
+    }
+}
